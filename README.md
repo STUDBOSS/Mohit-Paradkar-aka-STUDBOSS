@@ -16,9 +16,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitparadkar&show_icons=true&theme=radical)
-
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/C++-Pro-red?style=flat-square&logo=cplusplus)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Security-green?style=flat-square&logo=kalilinux)
